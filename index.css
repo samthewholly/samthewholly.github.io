@@ -25,6 +25,11 @@ h3 {
     font-size: 1.5rem;
 }
 
+a, a:hover, a:visited {
+    color: #0016dd;
+    text-decoration: none;
+}
+
 footer {
     height: 50px;
 }
@@ -69,4 +74,9 @@ footer {
 .about {
     margin: 0;
     padding: 50px 200px;
+}
+
+.contact {
+    margin: 0;
+    padding: 100px 30px;
 }
